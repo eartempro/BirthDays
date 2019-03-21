@@ -1,0 +1,17 @@
+{
+    "name": "yevdokimov/dates",
+    "description": "Find days number after birthday",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eartempro",
+            "email": "eartempro@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Evdokimov\\": "src"
+        }
+    }
+}
